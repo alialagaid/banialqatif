@@ -1,0 +1,8 @@
+{
+  "name": "شجرة عائلة بني قطيف",
+  "description": "تطبيق تفاعلي باللغة العربية لإدارة واستعراض شجرة عائلة بني قطيف مع نظام الدعوات والصلاحيات والبحث الذكي عبر Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
